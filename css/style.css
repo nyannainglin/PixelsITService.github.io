@@ -1,0 +1,42 @@
+
+#logo{
+    border-radius: 50%;
+}
+.ph-number{
+    color: #169FBD;
+}
+#home{
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#home h2 {
+    text-shadow: 4px 4px 4px rgba(0,0,0,0.3);
+}
+#home h2 span {
+    font-size: 24px;
+    font-weight: 300;
+}
+wl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev,
+wl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-next
+{
+    font-size: 40px;
+}
+wl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev:hover,
+wl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-next:hover {
+    color: #000;
+    background-color: #fff;
+}
+
+/* services */
+.triangle {
+    position: relative;
+}
+.circle img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+/* contact */
+
